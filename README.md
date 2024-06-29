@@ -19,6 +19,6 @@
 </details>
 <h2 id="about-the-project"> :pencil: 프로젝트 설명 </h2>
 <h2 id="overview"> :cloud: 게임개요 </h2>
-<h2 id="project-files-description"> :floppy_disk: 프로젝트 파일 (in WorldPainting/Assets/Scripts/) </h2>
+<h2 id="project-files-description"> :floppy_disk: 프로젝트 파일 </h2>
 <h2 id="tech"> 🛠 기술 </h2>
 <h2 id="screen-shot"> 📷 스크린샷</h2>
