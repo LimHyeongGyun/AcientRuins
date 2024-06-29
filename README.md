@@ -1,4 +1,4 @@
-<center> # AcientRuins </center>
+# <center> AcientRuins </center>
 
 -------------------------------------------
 ## 목차
