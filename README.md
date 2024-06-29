@@ -1,2 +1,2 @@
-# <center> AcientRuins </center>
+# AcientRuins
 ## 목차
