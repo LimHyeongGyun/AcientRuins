@@ -2,13 +2,12 @@
 <div align=center> <img src="./ImageFolder/GamePoster.png" width="400" heigh="600"> </div>
 
 -----
-#### <details><summary> 목차 </summary>
+<details> #### <summary> 목차 </summary>
 + ##### 1. [프로젝트 설명](#1)
 + ##### 2. [게임개요](#2)
 + ##### 3. [프로젝트 파일](#3)
 + ##### 4. [기술 / 프레임워크](#4)
 + ##### 5. [스크린샷](#5)
-
 </details>
 
 #### 1. 프로젝트 설명 <a name ='1'></a>
