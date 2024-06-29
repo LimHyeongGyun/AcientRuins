@@ -1,17 +1,24 @@
-# <div align=center> AcientRuins </div>
+<!-- HEADER --!>
+<div align="center">
+<h1> AcientRuins </h1>
 <div align=center> <img src="./ImageFolder/GamePoster.png" width="400" heigh="600"> </div>
+</div>
 
------
-<details> <summary> 목차 </summary>
-1. [프로젝트 설명](#1)<br>
-+ ##### 2. [게임개요](#2)<br>
-+ ##### 3. [프로젝트 파일](#3)<br>
-+ ##### 4. [기술 / 프레임워크](#4)<br>
-+ ##### 5. [스크린샷](#5)<br>
+<!-- Contents --!>
+<h2 id="table-of-contents"> :book: 목차 </h2>
+
+<details open="open">
+  <summary>목차</summary>
+  <ol>
+    <li><a href="#about-the-project"> 프로젝트 설명 </a></li>
+    <li><a href="#overview"> 게임개요 </a></li>
+    <li><a href="#project-files-description"> 프로젝트 파일 </a></li>
+    <li><a href="#tech"> 기술 </a></li>
+    <li><a href="#screen-shot"> 스크린샷</a></li>
+  </ol>
 </details>
-
-#### 1. 프로젝트 설명 <a name ='1'></a>
-#### 2. 게임개요 <a name ='2'></a>
-#### 3. 프로젝트 파일 <a name ='3'></a>
-#### 4. 기술 / 프레임워크 <a name ='4'></a>
-#### 5. 스크린샷 <a name ='5'></a>
+<h2 id="about-the-project"> :pencil: 프로젝트 설명 </h2>
+<h2 id="overview"> :cloud: 게임개요 </h2>
+<h2 id="project-files-description"> :floppy_disk: 프로젝트 파일 (in WorldPainting/Assets/Scripts/) </h2>
+<h2 id="tech"> 🛠 기술 </h2>
+<h2 id="screen-shot"> 📷 스크린샷</h2>
