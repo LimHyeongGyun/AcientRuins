@@ -29,7 +29,6 @@
 
 
 <h2 id="tech"> 🛠 기술/프레임워크 </h2>
-![C Sharp](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=CSharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
+
 
 <h2 id="screen-shot"> 📷 스크린샷</h2>
