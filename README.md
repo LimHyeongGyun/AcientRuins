@@ -18,7 +18,17 @@
   </ol>
 </details>
 <h2 id="about-the-project"> :pencil: 프로젝트 설명 </h2>
+<p align="justify"><b> 소울라이크 3D 액션RPG </b></p>
+<p>AcientRuins는 장비를 파밍하고 적들을 물리쳐 성장하는 소울라이크 3D 액션 RPG입니다.
+불편한 조작감을 성장한 스탯과 컨트롤을 통해 보스몬스터를 깨는 것이 목적입니다.</p>
+
 <h2 id="overview"> :cloud: 게임개요 </h2>
+
+
 <h2 id="project-files-description"> :floppy_disk: 프로젝트 파일 </h2>
+
+
 <h2 id="tech"> 🛠 기술 </h2>
+
+
 <h2 id="screen-shot"> 📷 스크린샷</h2>
