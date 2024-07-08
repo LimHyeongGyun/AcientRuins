@@ -42,6 +42,6 @@
 <li>Framework <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"></li>
 
 <h2 id="screen-shot"> 📷 스크린샷</h2>
-<img src="./ImageFolder/NpcTalkImg.png" width="400" heigh="400">
-<img src="./ImageFolder/PortalImg.png" width="400" heigh="400">
-<img src="./ImageFolder/BossImg.png" width="400" heigh="400">
+<img src="https://github.com/LimHyeongGyun/AcientRuins/blob/main/ImageFolder/NpcTalkImg.png" width="400" heigh="400">
+<img src="https://github.com/LimHyeongGyun/AcientRuins/blob/main/ImageFolder/PortalImg.png" width="400" heigh="400">
+<img src="https://github.com/LimHyeongGyun/AcientRuins/blob/main/ImageFolder/BossImg.png" width="400" heigh="400">
