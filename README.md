@@ -25,7 +25,8 @@
 <h2 id="overview"> :cloud: 게임개요 </h2>
 게임 제작은 <a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>과 <a href="https://github.com/LSeungHyun">LSeungHyun</a> 이 함께 개발을 진행하였습니다. <br>
 <a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>은 기획, 클라이언트 개발을 담당하고 있습니다. 기획, 플레이어 동작 기능, 다이얼로그, 게임시스템, 데이터를 담당하였습니다.
-<readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.>
+
+(readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
 <h2 id="project-files-description"> :floppy_disk: 프로젝트 파일 </h2>
 
