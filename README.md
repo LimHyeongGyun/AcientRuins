@@ -35,12 +35,12 @@
 (readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
 <h2 id="project-files-description"> 3. 프로젝트 파일 (AcientRuins/Script/) </h2>
-<li><b>/Inventory</b> - </li>
-<li><b>/Item</b> -  </li>
-<li><b> /Manager</b> - </li>
-<li><b> /Npc </b> -  </li>
-<li><b> /Player </b> -  </li>
-<li><b> /System </b> -  </li>
+<li><b>/Inventory</b> - 아이템 획득하고 장착하는 인벤토리 부분</li>
+<li><b>/Item</b> - 아이템을 종류별로 분할하고 아이템 데이터를 관리하는 부분</li>
+<li><b> /Manager</b> - 게임 내 관리 및 시스템 제어 매니저</li>
+<li><b> /Npc </b> -  NPC기능을 담당하는 부분</li>
+<li><b> /Player </b> - 플레이어 컨트롤 및 기능을 담당하는 부분</li>
+<li><b> /System </b> - 다이얼로그 및 데이터 세이브 등 게임 내 시스템을 담당하는 부분</li>
 
 
 <h2 id="tech"> 4. 기술/프레임워크 </h2>
