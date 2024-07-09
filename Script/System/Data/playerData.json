@@ -1,0 +1,31 @@
+{
+    "maxHp": 100,
+    "strength": 8,
+    "power": 12,
+    "silver": 0,
+    "acientMemorie": 999999999,
+    "healthLv": 1,
+    "strengthLv": 1,
+    "powerLv": 1,
+    "sceneName": "FirstMap",
+    "saveBaseTransform": {
+        "instanceID": 0
+    },
+    "posX": -408.2064208984375,
+    "posY": 15.0,
+    "posZ": 320.0,
+    "equipWeapon": 0,
+    "equipShield": 0,
+    "equipItem": 0,
+    "equipW": false,
+    "equipS": false,
+    "equipI": false,
+    "playerInventory": [
+        {
+            "instanceID": 29182
+        },
+        {
+            "instanceID": 29184
+        }
+    ]
+}

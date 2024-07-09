@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 07f6e89d32e0e044bacd10d117595957
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - monster: {instanceID: 0}
+  - dkBossMonster: {instanceID: 0}
+  - uhBossMonster: {instanceID: 0}
+  - target: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - nvAgent: {instanceID: 0}
+  - _healthbar: {instanceID: 0}
+  - DieSound: {instanceID: 0}
+  - GetHitSound: {fileID: 8300000, guid: 2aee872d1032e9745a4ba455e21b8353, type: 3}
+  - bossTarget: {instanceID: 0}
+  - spawnPoint: {instanceID: 0}
+  - atkObj: {fileID: 5905664166635592493, guid: 1e72f5deabf502043828b2fa03983c05, type: 3}
+  - defendObj: {fileID: 5905664166635592493, guid: 1da533fa99183844ca0363c502d2e7ba, type: 3}
+  - commodities: {fileID: 6092438437199952340, guid: ad9cf0e4e4b0c5c4297db541fc473208, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

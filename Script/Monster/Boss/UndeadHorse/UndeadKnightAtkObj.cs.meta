@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e204c78cb1e6c9d4db090f7bbb09aed8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dkBossMonster: {instanceID: 0}
+  - uhBossMonster: {instanceID: 0}
+  - projectileObj: {fileID: 4603937765788129788, guid: 2d093ccf1bde15c42936b76c4de1139c, type: 3}
+  - bossMissile: {fileID: 4684432415458179572, guid: 4438d823a13d59447943062a61a370a5, type: 3}
+  - atkObj: {fileID: 5905664166635592493, guid: 1e72f5deabf502043828b2fa03983c05, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
