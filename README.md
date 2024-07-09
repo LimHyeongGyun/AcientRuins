@@ -53,5 +53,5 @@
 </div>
 
 <h2 id="spreadsheet-link"> 6.다이얼로그시트</h2>
-+ https://docs.google.com/spreadsheets/d/1qUaobVFt9pj3BaDbAQAHjnOD9yyasFep-4rz-QBoq8E/edit?gid=0#gid=0
+<li>https://docs.google.com/spreadsheets/d/1qUaobVFt9pj3BaDbAQAHjnOD9yyasFep-4rz-QBoq8E/edit?gid=0#gid=0
 
