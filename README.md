@@ -13,8 +13,9 @@
     <li><a href="#about-the-project"> 프로젝트 설명 </a></li>
     <li><a href="#overview"> 게임개요 </a></li>
     <li><a href="#project-files-description"> 프로젝트 파일 </a></li>
-    <li><a href="#tech"> 기술/프레임워 </a></li>
+    <li><a href="#tech"> 기술/프레임워크 </a></li>
     <li><a href="#screen-shot"> 스크린샷</a></li>
+    <li><a href="#spreadsheet-link"> 다이얼로그 시트 </a></li>
   </ol>
 </details>
 <h2 id="about-the-project"> 1. 프로젝트 설명 </h2>
