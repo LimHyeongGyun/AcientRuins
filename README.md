@@ -45,7 +45,7 @@
 
 <h2 id="tech"> 4. 기술/프레임워크 </h2>
 <li>Programming <img src="https://img.shields.io/badge/C%23-99CC00?style=for-the-badge"></li>
-<li>Framework <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"></li>
+<li>Framework <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"></li>
 
 <h2 id="screen-shot"> 5. 스크린샷</h2>
 <div align="center">
