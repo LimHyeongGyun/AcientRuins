@@ -20,6 +20,7 @@
     <li><a href="#tech"> 기술/프레임워크 </a></li>
     <li><a href="#screen-shot"> 스크린샷</a></li>
     <li><a href="#spreadsheet-link"> 다이얼로그 시트 </a></li>
+    <li><a href="#download-link"> 게임 다운로드 </a></li>
   </ol>
 </details>
 <h2 id="about-the-project"> 1. 프로젝트 설명 </h2>
@@ -58,4 +59,5 @@
 
 <h2 id="spreadsheet-link"> 6.다이얼로그시트</h2>
 <li>https://docs.google.com/spreadsheets/d/1qUaobVFt9pj3BaDbAQAHjnOD9yyasFep-4rz-QBoq8E/edit?gid=0#gid=0
-
+<h2 id="download-link"> 7.게임 다운로드</h2>
+<li>https://drive.google.com/drive/folders/1SL0G-FXH0FqEGWVkzLijlPPWnmBeDm_R
