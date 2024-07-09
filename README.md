@@ -42,8 +42,11 @@
 <li>Framework <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"></li>
 
 <h2 id="screen-shot"> 📷 스크린샷</h2>
-<div align="left">
-<img src="./ImageFolder/NpcTalkImg.png" width="400" heigh="400"></a>
-<img src="./ImageFolder/PortalImg.png" width="400" heigh="400"></a>
-<img src="./ImageFolder/BossImg.png" width="400" heigh="400">
+<div align="center">
+<img src="./ImageFolder/NpcTalkImg.png" width="49%" heigh="400"></a>
+<img src="./ImageFolder/PortalImg.png" width="49%" heigh="400"></a>
+<img src="./ImageFolder/BossImg.png" width="49%" heigh="400"></a>
+<img src="./ImageFolder/LastBossImg.png" width="49%" heigh="400"><br>
+
+<게임 플레이 사진>
 </div>
