@@ -6,6 +6,7 @@
 <li> 개발기간: 2024.03.01 ~ 2024.06.12
 <li> 개발인원: <a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>, <a href="https://github.com/LSeungHyun">LSeungHyun</a>
 <li> 형상관리툴: PlasticSCM
+<li> GitHub.Io: <a href="LimHyeongGyun.github.io"></a>
 
 <!-- Contents --!>
 <h2 id="table-of-contents"> :book: 목차 </h2>
