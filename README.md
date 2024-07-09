@@ -3,6 +3,9 @@
 <h1> AcientRuins </h1>
 <div align=center> <img src="./ImageFolder/GamePoster.png" width="400" heigh="600"> </div>
 </div>
+<li> 개발기간: 2024.03.01 ~ 2024.06.12
+<li> 개발인원: <a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>, <a href="https://github.com/LSeungHyun">LSeungHyun</a>
+<li> 형상관리툴: PlasticSCM
 
 <!-- Contents --!>
 <h2 id="table-of-contents"> :book: 목차 </h2>
