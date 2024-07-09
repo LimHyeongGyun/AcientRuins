@@ -32,7 +32,7 @@
 
 (readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
-<h2 id="project-files-description"> 3. 프로젝트 파일 (AcientRuins/Scripts/) </h2>
+<h2 id="project-files-description"> 3. 프로젝트 파일 (AcientRuins/Script/) </h2>
 <li><b>/Inventory</b> - </li>
 <li><b>/Item</b> -  </li>
 <li><b> /Manager</b> - </li>
