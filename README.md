@@ -28,9 +28,14 @@
 <p>AcientRuins는 장비를 파밍하고 적들을 물리쳐 성장하는 소울라이크 3D 액션 RPG입니다.
 불편한 조작감을 성장한 스탯과 컨트롤을 통해 보스몬스터를 깨는 것이 목적입니다.</p>
 
-<h2 id="overview"> 2. 게임개요 </h2>
+<h2 id="overview"> 2. 담당업 </h2>
 게임 제작은 <a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>과 <a href="https://github.com/LSeungHyun">LSeungHyun</a> 이 함께 개발을 진행하였습니다. <br>
-<a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>은 기획, 클라이언트 개발을 담당하고 있습니다. 기획, 플레이어 동작 기능, 다이얼로그, 게임시스템, 데이터를 담당하였습니다.
+<a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>은 기획, 클라이언트 개발을 담당하고 있습니다.
+<li>기획 및 클라이언트 개발
+<li>플레이어 전투액션 구현, 인벤토리, 플레이어스탠 구현
+<li>스프레드시트를 통한 csv로 다이얼로그 기능 구현
+<li>아이템 드랍 및 획득기능 구현, NPC 구현
+<li>Json을 이용하여 플레이 게임데이터 관리 기능 구현
 
 (readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
